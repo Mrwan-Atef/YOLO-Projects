@@ -1,0 +1,14 @@
+# AI Assets
+*.mp4
+*.pt
+*.jpg
+*.jpeg
+
+# Environments
+.venv/
+venv/
+.idea/
+__pycache__/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
