@@ -3,12 +3,18 @@
 *.pt
 *.jpg
 *.jpeg
+*.png
+*.gif
 
 # Environments
 .venv/
 venv/
 .idea/
 __pycache__/
+.env
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+# folders
+sample_data/
+extracted_frames/
